@@ -1,0 +1,1 @@
+Tämä on testitiedosto, joka on luotu git init:n jälkeen.
